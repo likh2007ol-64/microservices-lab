@@ -1,0 +1,8 @@
+com\example\orderservice\OrderServiceApplication.class
+com\example\orderservice\RpsCounter.class
+com\example\orderservice\dto\UserDto.class
+com\example\orderservice\repository\OrderRepository.class
+com\example\orderservice\controller\OrderController.class
+com\example\orderservice\service\OrderService.class
+com\example\orderservice\entity\Order.class
+com\example\orderservice\UserClient.class
